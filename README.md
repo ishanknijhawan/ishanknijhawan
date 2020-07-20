@@ -1,6 +1,6 @@
 |                           ANDROID                            |                           FLUTTER                            |                            REACT                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="C:\Users\HP\Desktop\Android_symbol_green_RGB.png" style="zoom:25%;" /> | <img src="C:\Users\HP\Downloads\flutter.png" style="zoom:10%;" /> | <img src="C:\Users\HP\Downloads\kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457.3471941815281223426081.png" style="zoom:50%;" /> |
+| <img src="https://user-images.githubusercontent.com/45118110/87975674-8d000180-cae9-11ea-9697-fa09fa5bc002.png" style="zoom:25%;" /> | <img src="https://user-images.githubusercontent.com/45118110/87975799-bf116380-cae9-11ea-8e1b-180f8b124c38.png" style="zoom:10%;" /> | <img src="https://user-images.githubusercontent.com/45118110/87975822-c3d61780-cae9-11ea-8e3c-a7ee9de707d4.png" style="zoom:50%;" /> |
 |                Proficient Android Developer 🥇                |                       Learning Flutter                       |                        React in Queue                        |
 
 ### Hi there 👋
