@@ -10,4 +10,4 @@
 - 👯 I’m looking to collaborate on ... making Android apps!
 - 🤔 I’m looking for help with ...Flutter and React
 - 💬 Ask me about ... Andoid related things, Java, Kotlin, etc. 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... Umm email I guess <u>[ishanknijhawan@gmail.com](mailto:ishanknijhawan@gmail.com)
