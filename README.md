@@ -2,7 +2,7 @@
 
 |                                 _______ Android Developer 🥇 _______                                  |                                  ___________ Flutter Developer ___________                                  |                                  ___________ Learning Web Dev ___________                                    |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/45118110/92568398-bc86eb00-f29c-11ea-9d73-3376b0ad861d.png" width="180" height="180" /> | <img src="https://user-images.githubusercontent.com/45118110/87975799-bf116380-cae9-11ea-8e1b-180f8b124c38.png" width="150" height="180" /> | <img src="https://user-images.githubusercontent.com/45118110/87975822-c3d61780-cae9-11ea-8e3c-a7ee9de707d4.png" width="180" height="180"/> |                        
+| <img src="https://user-images.githubusercontent.com/45118110/92568398-bc86eb00-f29c-11ea-9d73-3376b0ad861d.png" width="200" height="200" /> | <img src="https://user-images.githubusercontent.com/45118110/87975799-bf116380-cae9-11ea-8e1b-180f8b124c38.png" width="150" height="180" /> | <img src="https://user-images.githubusercontent.com/45118110/87975822-c3d61780-cae9-11ea-8e3c-a7ee9de707d4.png" width="180" height="180"/> |                        
 
 
 - 🔭 I’m currently working on ... Android Development
