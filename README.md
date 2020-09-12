@@ -1,12 +1,12 @@
-# Hello everyone, I am Ishank. I am 
-
-|                                 _______ Android Developer 🥇 _______                                  |                                  ___________ Flutter Developer 🥈 __________                                  |                                  ___________ Learning Web Dev ___________                                    |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/45118110/92568398-bc86eb00-f29c-11ea-9d73-3376b0ad861d.png" width="200" height="200" /> | <img src="https://user-images.githubusercontent.com/45118110/87975799-bf116380-cae9-11ea-8e1b-180f8b124c38.png" width="150" height="180" /> | <img src="https://user-images.githubusercontent.com/45118110/87975822-c3d61780-cae9-11ea-8e3c-a7ee9de707d4.png" width="180" height="180"/> |                        
-
+# Hey! I am Ishank
 
 - 🔭 I’m currently working on ... Android Development
 - 🌱 I’m currently learning ... JavaScript and React
 - 👯 I’m looking to collaborate on ... making Mobile apps!
 - 💬 Ask me about ... Andoid and Flutter 
 - 📫 How to reach me: ... Umm email I guess <u>[ishanknijhawan@gmail.com](mailto:ishanknijhawan@gmail.com)
+  
+  <br/>
+<div align="center" style= "align-content":center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanknijhawan&theme=gruvbox&show_icons=true" />
+</div>
