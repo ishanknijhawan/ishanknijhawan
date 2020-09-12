@@ -9,11 +9,12 @@
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=ishanknijhawan&include_all_commits=true&theme=gruvbox&show_icons=true" />
 </div>
 
+<br>
 **Tools and Technologies**
 
-<br>
+
 <a>
-  <img align="left" width="24px" src="https://user-images.githubusercontent.com/45118110/87975674-8d000180-cae9-11ea-9697-fa09fa5bc002.png" />
+  <img align="left" width="24px" src="https://user-images.githubusercontent.com/45118110/92568398-bc86eb00-f29c-11ea-9d73-3376b0ad861d.png" />
 </a>
 <a>
   <img align="left" width="21px" src="https://user-images.githubusercontent.com/45118110/92995478-af2e6280-f521-11ea-97e5-b2bfe1f2c877.png"/>
