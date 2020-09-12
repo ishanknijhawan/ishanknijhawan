@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking to collaborate on Flutter projects!
-- 💬 Ask me about anything Mobile app development 📱
+- 💬 Ask me anything related to mobile app development 📱
 
   
 <div align="start" style= "align-content":center>
