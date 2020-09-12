@@ -10,11 +10,12 @@
 </div>
 
 <br>
+
 **Tools and Technologies**
 
 
 <a>
-  <img align="left" width="24px" src="https://user-images.githubusercontent.com/45118110/92568398-bc86eb00-f29c-11ea-9d73-3376b0ad861d.png" />
+  <img align="left" width="24px" src="https://user-images.githubusercontent.com/45118110/92995654-e8b39d80-f522-11ea-89e6-92e88e36c183.png" />
 </a>
 <a>
   <img align="left" width="21px" src="https://user-images.githubusercontent.com/45118110/92995478-af2e6280-f521-11ea-97e5-b2bfe1f2c877.png"/>
