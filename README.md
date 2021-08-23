@@ -1,6 +1,6 @@
 ## Hi there, I am Ishank 👋
 
-- 🌱 I’m currently learning Jetpack compose and Swift
+- 🌱 I’m currently learning Jetpack Compose and Swift
 - 👯 I’m looking to collaborate on Flutter projects!
 - 💬 Ask me anything related to mobile app development 📱
 
